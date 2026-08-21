@@ -17,6 +17,13 @@ por linha (RLS) · **217 policies** de autorização
 
 `React` `TypeScript` `Supabase` `React Query` `Zod` `Tailwind` `Vite`
 
+<!-- PRINTS — descomente este bloco quando as imagens estiverem em assets/
+<p align="center">
+  <img src="assets/novaeramtds-dashboard.png" alt="Dashboard do Nova Era MTDS" width="49%">
+  <img src="assets/novaeramtds-admin.png" alt="Painel administrativo do Nova Era MTDS" width="49%">
+</p>
+-->
+
 #### Plataforma de assinaturas e checkout
 
 Sistema de pagamento recorrente: checkout público e avulso, gestão de planos,
@@ -25,6 +32,13 @@ histórico de cobrança, consentimento OAuth e integração com WhatsApp.
 **509 commits** · testes **end-to-end com Playwright** e unitários com Vitest
 
 `React` `TypeScript` `Supabase` `Playwright` `Vitest` `Tailwind`
+
+<!-- PRINTS — descomente este bloco quando as imagens estiverem em assets/
+<p align="center">
+  <img src="assets/crm-checkout.png" alt="Fluxo de checkout" width="49%">
+  <img src="assets/crm-planos.png" alt="Gestão de planos e assinaturas" width="49%">
+</p>
+-->
 
 > Os dois têm código fechado por serem sistemas em operação com dados de clientes.
 > Tenho prazer em apresentar a arquitetura e as decisões técnicas em uma conversa.
