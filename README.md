@@ -87,7 +87,7 @@ de cobrança, consentimento OAuth e integração com WhatsApp.
 
 **Front-end** — React · TypeScript · Next.js · Vite · Tailwind · shadcn/ui
 
-**Dados e back-end** — Supabase (Auth, Postgres, RLS) · Prisma · Node · Python
+**Dados e back-end** — Supabase (Auth, Postgres, RLS) · PostgreSQL · Node · Python
 
 **Infra e qualidade** — Docker · Cloudflare Workers · Vercel · Playwright · Vitest
 
