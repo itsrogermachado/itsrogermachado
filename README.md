@@ -1,6 +1,6 @@
 # Roger Machado
 
-**Desenvolvedor Full-Stack | React · TypeScript · PostgreSQL/Supabase**  
+**Desenvolvedor Full-Stack | React · TypeScript · Node.js · PostgreSQL/Supabase**  
 **Em especialização:** engenharia de aplicações com IA, LLMs, RAG e agentes — *formação em andamento, não experiência profissional declarada.*
 
 📍 Nova Iguaçu, RJ · [LinkedIn](https://www.linkedin.com/in/roger-machado-dev/) · [E-mail](mailto:rogermachado019@gmail.com)
@@ -32,10 +32,14 @@ Estou estudando integração de LLMs com aplicações reais, ferramentas, RAG, a
 - [Roteiro prático de 8 semanas](docs/estudos/roteiro-ia-8-semanas.md)
 - [Perguntas de entrevista e matriz de evidências](docs/entrevistas/perguntas-e-evidencias.md)
 
-## Tecnologias
+## Tecnologias e estudos
 
-**Front-end:** React, TypeScript, JavaScript, Vite, Next.js, Tailwind CSS  
-**Back-end e dados:** Node.js, Supabase Auth, PostgreSQL, RLS, Edge Functions  
-**Qualidade e ferramentas:** Git, GitHub Actions, Vitest, Playwright, Docker (conforme os projetos)
+**Front-end:** React, TypeScript, JavaScript, Next.js, Vite e Tailwind CSS  
+**Back-end e dados (projetos):** Node.js, Supabase Auth, PostgreSQL, RLS e Edge Functions  
+**Linguagens de back-end que estou estudando:** **Python e Java**  
+**Qualidade e ferramentas:** Git, GitHub Actions, Vitest, Playwright e Docker (conforme os projetos)  
+**Em aprofundamento:** integração de LLMs, RAG, agentes de IA e desenvolvimento de aplicações com inteligência artificial
+
+Busco evoluir tanto na construção de sistemas full-stack quanto nos fundamentos de back-end com **Java e Python**, aplicando esse aprendizado em projetos práticos.
 
 > Projetos privados não são expostos para preservar código e dados de clientes. Métricas de receita, quantidade de usuários e disponibilidade só serão publicadas quando houver comprovação.
