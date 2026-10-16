@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-label="Nova Era MTDS">
+<rect width="1200" height="540" fill="#09131f"/>
+<text x="65" y="67" font-size="34" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-weight="700">Nova Era MTDS</text>
+<text x="65" y="99" font-size="17" fill="#adc4d1" font-family="Arial,Helvetica,sans-serif">Fluxo funcional simplificado a partir de estruturas observadas</text>
+<rect x="65" y="175" width="236" height="170" rx="18" fill="#11283a" stroke="#3e9da1" stroke-width="2"/>
+<text x="84" y="217" fill="#48dfbf" font-size="20" font-weight="700" font-family="Arial,Helvetica,sans-serif">Interface</text><text x="84" y="253" fill="#edf5f8" font-size="17" font-family="Arial,Helvetica,sans-serif">React + Vite</text><text x="84" y="281" fill="#edf5f8" font-size="17" font-family="Arial,Helvetica,sans-serif">PWA e dashboard</text><path d="M 301 260 L 343 260" stroke="#81aab8" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M 343 260 l -13 -8 v 16 z" fill="#81aab8"/>
+<rect x="349" y="175" width="236" height="170" rx="18" fill="#11283a" stroke="#3e9da1" stroke-width="2"/>
+<text x="368" y="217" fill="#48dfbf" font-size="20" font-weight="700" font-family="Arial,Helvetica,sans-serif">Identidade</text><text x="368" y="253" fill="#edf5f8" font-size="17" font-family="Arial,Helvetica,sans-serif">Supabase Auth</text><text x="368" y="281" fill="#edf5f8" font-size="17" font-family="Arial,Helvetica,sans-serif">Controle de acesso</text><path d="M 585 260 L 627 260" stroke="#81aab8" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M 627 260 l -13 -8 v 16 z" fill="#81aab8"/>
+<rect x="633" y="175" width="236" height="170" rx="18" fill="#11283a" stroke="#3e9da1" stroke-width="2"/>
+<text x="652" y="217" fill="#48dfbf" font-size="20" font-weight="700" font-family="Arial,Helvetica,sans-serif">Dados</text><text x="652" y="253" fill="#edf5f8" font-size="17" font-family="Arial,Helvetica,sans-serif">PostgreSQL</text><text x="652" y="281" fill="#edf5f8" font-size="17" font-family="Arial,Helvetica,sans-serif">RLS e migrações</text><path d="M 869 260 L 911 260" stroke="#81aab8" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M 911 260 l -13 -8 v 16 z" fill="#81aab8"/>
+<rect x="917" y="175" width="236" height="170" rx="18" fill="#11283a" stroke="#3e9da1" stroke-width="2"/>
+<text x="936" y="217" fill="#48dfbf" font-size="20" font-weight="700" font-family="Arial,Helvetica,sans-serif">Integrações</text><text x="936" y="253" fill="#edf5f8" font-size="17" font-family="Arial,Helvetica,sans-serif">Edge Functions</text><text x="936" y="281" fill="#edf5f8" font-size="17" font-family="Arial,Helvetica,sans-serif">Cobranças e avisos</text>
+<text x="65" y="414" font-size="17" fill="#cadce6" font-family="Arial,Helvetica,sans-serif">Camadas e tecnologias vistas no repositório privado; fluxos exatos dependem da rota.</text>
+<rect x="65" y="445" width="1070" height="1" fill="#2c5261"/>
+<text x="65" y="483" font-size="16" fill="#8baab7" font-family="Arial,Helvetica,sans-serif">DIAGRAMA CONCEITUAL • Não é captura da aplicação nem mapa exaustivo de segurança.</text>
+</svg>
